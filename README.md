@@ -1,5 +1,5 @@
 
-# 🍦 Ice Cream Chatbot
+# Ice Cream Chatbot
 
 A simple Streamlit chatbot powered by a locally running Llama GGUF model.
 
@@ -11,5 +11,5 @@ A simple Streamlit chatbot powered by a locally running Llama GGUF model.
 2. Run:
    streamlit run unit2_1stream.py
 
-## 📌 Note
+##  Note
 Make sure the GGUF model file is placed in the project directory.
